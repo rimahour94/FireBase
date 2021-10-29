@@ -1,0 +1,55 @@
+
+.nav {
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+}
+
+ul{
+    list-style: none;
+
+}
+
+.profile_img{
+    width: 40px;
+    height: 35px;
+
+}
+
+.logOutContainer{
+    display: flex;
+    width: 100%;
+    background-color: #2a2a2a;;
+    color: white;
+    justify-content: space-between;
+    padding: 10px 40px 0px 10px;
+    vertical-align: middle;
+    
+}
+
+
+.leftMenu {
+    width: 10%;
+    display: flex;
+    vertical-align: middle;
+    justify-content: space-between;
+}
+
+.leftMenu p{
+    margin: 7px 2px 2px 14px;
+}
+.circleImg{
+    height: 35px;
+    width: 40px;
+    background-color: rgb(247, 238, 238);
+    margin-bottom: 10px;
+}
+
+
+li{
+    margin-top: 13px;
+}
+.linkLogOut{
+   text-decoration: none;
+   color: white;
+}

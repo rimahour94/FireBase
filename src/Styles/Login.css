@@ -1,0 +1,21 @@
+.cardd {
+    margin: 10px auto;
+    width: 25%;
+    box-shadow: 2px 3px 7px #3b404699;
+    background-color: #bdcddc;
+    text-align: center;
+    /* height: 45vh; */
+  
+}
+
+.card-text:last-child {
+    margin-bottom: 0;
+    font-size: 21px;
+    font-weight: 600;
+    color: darkblue;
+}
+.btnSecondary {
+    
+    background-color: darkblue;
+    
+}
